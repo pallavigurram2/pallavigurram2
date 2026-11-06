@@ -95,8 +95,9 @@ I'm always happy to talk about **Databricks, data engineering, and certification
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?pallavigurram2&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pallavigurram2&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 **"Turning raw data into reliable, meaningful insights."**
 
 </div>
