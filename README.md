@@ -6,17 +6,17 @@
 
 [![Email](https://img.shields.io/badge/Email-pallavigurram2@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](pallavigurram2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurram-pallavi-728891232/)
-[![Location](https://img.shields.io/badge/Location-YOUR_CITY%2C%20India-orange?style=for-the-badge)](#)
-
+ <img src="https://img.shields.io/badge/Company-TCS-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Chennai,India-skyblue?style=for-the-badge" />
 </div>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 Graduated in **2025** and started my career as a **Data Engineer at Tata Consultancy Services (TCS)** in February 2025
+🎓 Graduated in **2025** and started my career as a **Data Engineer at Tata Consultancy Services (TCS)** in February 2026
 
-📚 Completed intensive **Databricks training (Feb – Jun 2025)** covering the Lakehouse platform and data engineering fundamentals
+📚 Completed intensive **Databricks training (Feb – Jun 2026)** covering the Lakehouse platform and data engineering fundamentals
 
 🏦 Currently working on a **banking project for a US client**, building and maintaining data solutions on **Databricks**
 
@@ -26,14 +26,7 @@
 
 ---
 
-# 🏅 Certifications
 
-- **Databricks Certified Data Engineer Associate**
-  Lakehouse fundamentals, ELT with Spark SQL and Python, incremental data processing, and production pipelines.
-- **Databricks Certified Data Engineer Professional**
-  Advanced pipeline design, performance tuning, data modeling, governance, monitoring, and deployment on Databricks.
-
----
 
 # 🛠️ Tech Stack
 
@@ -45,7 +38,7 @@
 
 ## 💻 Languages
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-red?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -53,9 +46,23 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 ---
+
+# 🏅 Certifications
+
+- ✅ **Databricks Certified Data Engineer Associate**
+- ✅ **Databricks Certified Data Engineer Professional**
+
+<p>
+  <img src="https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-Data%20Engineer%20Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+**Training:** Databricks Data Engineering program at TCS (Feb – Apr 2026)
+
 
 # 🔭 What I Work With
 
