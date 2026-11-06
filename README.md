@@ -91,7 +91,7 @@
 
 I'm always happy to talk about **Databricks, data engineering, and certification prep**.
 
-📩 Reach out on [LinkedIn](https://www.linkedin.com/in/gurram-pallavi-728891232/) or [drop me an email](pallavigurram2@gmail.com)
+📩 Reach out on [LinkedIn](https://www.linkedin.com/in/gurram-pallavi-728891232/) or [Email](pallavigurram2@gmail.com)
 
 <div align="center">
 
